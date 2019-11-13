@@ -46,7 +46,7 @@ HTML has attributes, React has properties
 
 don't answer so many questions that the students didn't ask first
   e.g.- "why babel? why can't browsers just interpret JSX?'
-   \<script type="text/babel">
+   `<script type="text/babel">`
 
 components as capitalized functions with self-closing TOO MUCH AT ONCE
 
