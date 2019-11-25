@@ -6,7 +6,7 @@
 - By providing tools to create components for each part of the interface.
 - And manage the assembly of those components into the final resulting web page.
 
-![react logo](/images/React-icon.svg)
+![react logo](https://res.cloudinary.com/btvca/image/upload/v1574445196/curriculum/React-icon_cq6ly5.svg)
 
 # What are components?
 
@@ -20,7 +20,7 @@ Components are individual pieces of a web page interface like:
 
 # Components Example
 
-![react twitter components](/images/react-twitter-components.jpg)
+![react twitter components](https://res.cloudinary.com/btvca/image/upload/v1574445197/curriculum/react-twitter-components_zdb68t.jpg)
 
 # Virtual DOM
 
@@ -44,7 +44,7 @@ Imagine an application with several parts.
 # DOM Example
 
 
-![react component tree](/images/react-component-tree.svg)
+![react component tree](https://res.cloudinary.com/btvca/image/upload/v1574445197/curriculum/react-component-tree_cybirc.svg)
 
 # Automatic Updates
 
@@ -73,7 +73,7 @@ Declarative means that you do not instruct the computer about what steps to take
 - You must describe something that is possible.
 - The computer figures out how to make it so.
 
-!["make it so"](/images/make-it-so.jpg)
+!["make it so"](https://res.cloudinary.com/btvca/image/upload/v1574445188/curriculum/make-it-so_ekszfi.jpg)
 
 # Declarative vs Imperative
 

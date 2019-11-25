@@ -134,7 +134,7 @@ class CommentList extends React.Component {
 
 # Granular Render Updates
 
-![render performance](/images/granular-dom-updates.gif)
+![render performance](https://res.cloudinary.com/btvca/image/upload/v1574445178/curriculum/granular-dom-updates_jyda7g.gif)
 
 # Component Lifecycle
 
@@ -163,6 +163,6 @@ class CommentList extends React.Component {
 
 # Lifecycle Methods Diagram
 
-![react-component-lifecycle](/images/react-component-lifecycle.png)
+![react-component-lifecycle](https://res.cloudinary.com/btvca/image/upload/v1574445197/curriculum/react-component-lifecycle_vmdxp1.png)
 
 <http://projects.wojtekmaj.pl/react-lifecycle-methods-diagram/>
