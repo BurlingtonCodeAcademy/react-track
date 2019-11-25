@@ -103,6 +103,13 @@ class MyComponent extends React.Component {
 }
 ```
 
+# Error Boundries - Live Example
+
+<iframe height="265" style={{width: "100%"}} scrolling="no" title="xxxNoex" src="https://codepen.io/burlingtoncodeacademy/embed/xxxNoex?height=265&theme-id=default&default-tab=js,result" frameBorder="no" allowtransparency="true" allowFullScreen={true}>
+  See the Pen <a href='https://codepen.io/burlingtoncodeacademy/pen/xxxNoex'>xxxNoex</a> by Joshua Burke
+  (<a href='https://codepen.io/burlingtoncodeacademy'>@burlingtoncodeacademy</a>) on <a href='https://codepen.io'>CodePen</a>.
+</iframe>
+
 # Error Boundaries - Stack Traces
 
 ### Default

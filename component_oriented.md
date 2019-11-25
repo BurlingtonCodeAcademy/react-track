@@ -132,6 +132,13 @@ class CommentList extends React.Component {
 </html>
 ```
 
+# Ticking Clock Live
+
+<iframe height="265" style={{width: "100%"}} scrolling="no" title="React Clock Example" src="https://codepen.io/burlingtoncodeacademy/embed/Rwwmzqo?height=265&theme-id=default&default-tab=js,result" frameBorder="no" allowtransparency="true" allowFullScreen={true}>
+  See the Pen <a href='https://codepen.io/burlingtoncodeacademy/pen/Rwwmzqo'>React Clock Example</a> by Joshua Burke
+  (<a href='https://codepen.io/burlingtoncodeacademy'>@burlingtoncodeacademy</a>) on <a href='https://codepen.io'>CodePen</a>.
+</iframe>
+
 # Granular Render Updates
 
 ![render performance](https://res.cloudinary.com/btvca/image/upload/v1574445178/curriculum/granular-dom-updates_jyda7g.gif)

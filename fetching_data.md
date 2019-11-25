@@ -143,3 +143,10 @@ class App extends React.Component {
   }
 }
 ```
+
+# Fetching Data Example
+
+<iframe height="265" style={{width: "100%"}} scrolling="no" title="Fetching API Data" src="https://codepen.io/burlingtoncodeacademy/embed/PoovMwO?height=265&theme-id=default&default-tab=js,result" frameBorder="no" allowtransparency="true" allowFullScreen="true">
+  See the Pen <a href='https://codepen.io/burlingtoncodeacademy/pen/PoovMwO'>Fetching API Data</a> by Joshua Burke
+  (<a href='https://codepen.io/burlingtoncodeacademy'>@burlingtoncodeacademy</a>) on <a href='https://codepen.io'>CodePen</a>.
+</iframe>

@@ -193,6 +193,13 @@ class Calculator extends React.Component {
 
 [CodePen](https://codepen.io/Dangeranger/pen/djrKLj?editors=0010)
 
+# Lifting State - Live Example
+
+<iframe height="265" style={{width: "100%"}} scrolling="no" title="Lifting State to Parent Components" src="https://codepen.io/burlingtoncodeacademy/embed/oNNRrKx?height=265&theme-id=default&default-tab=js,result" frameBorder="no" allowtransparency="true" allowFullScreen={true}>
+  See the Pen <a href='https://codepen.io/burlingtoncodeacademy/pen/oNNRrKx'>Lifting State to Parent Components</a> by Joshua Burke
+  (<a href='https://codepen.io/burlingtoncodeacademy'>@burlingtoncodeacademy</a>) on <a href='https://codepen.io'>CodePen</a>.
+</iframe>
+
 # Lifting State - Conclusions
 
 * A single "point of truth" holds the state

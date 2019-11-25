@@ -97,6 +97,13 @@ ReactDOM.render(
 );
 ```
 
+# JSX Results
+
+<iframe height="265" style={{width: "100%"}} scrolling="no" title="Embedding with JSX " src="https://codepen.io/burlingtoncodeacademy/embed/gOOJVYx?height=265&theme-id=default&default-tab=js,result" frameBorder="no" allowtransparency="true" allowFullScreen={true}>
+  See the Pen <a href='https://codepen.io/burlingtoncodeacademy/pen/gOOJVYx'>Embedding with JSX </a> by Joshua Burke
+  (<a href='https://codepen.io/burlingtoncodeacademy'>@burlingtoncodeacademy</a>) on <a href='https://codepen.io'>CodePen</a>.
+</iframe>
+
 # JSX is transformed into ReactDOM
 
 - Tools like [Babel](https://babeljs.io) convert JSX to ReactDOM
@@ -134,3 +141,10 @@ console.log( <h1>yo</h1> );
   </body>
 </html>
 ```
+
+# Live Example
+
+<iframe height="265" style={{width: "100%"}} scrolling="no" title="Single File React" src="https://codepen.io/burlingtoncodeacademy/embed/eYYaqYa?height=265&theme-id=default&default-tab=html,result" frameBorder="no" allowtransparency="true" allowFullScreen={true}>
+  See the Pen <a href='https://codepen.io/burlingtoncodeacademy/pen/eYYaqYa'>Single File React</a> by Joshua Burke
+  (<a href='https://codepen.io/burlingtoncodeacademy'>@burlingtoncodeacademy</a>) on <a href='https://codepen.io'>CodePen</a>.
+</iframe>

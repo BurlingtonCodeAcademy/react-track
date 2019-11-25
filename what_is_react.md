@@ -93,6 +93,12 @@ window.onLoad function () {
 }
 ```
 
+# Simple Example
+
+<iframe height="265" style={{width: "100%"}} scrolling="no" title="Hello React" src="https://codepen.io/burlingtoncodeacademy/embed/PoovrvK?height=265&theme-id=default&default-tab=js,result" frameBorder="no" allowtransparency="true" allowFullScreen={true}>
+  See the Pen <a href='https://codepen.io/burlingtoncodeacademy/pen/PoovrvK'>Hello React</a> by Joshua Burke
+  (<a href='https://codepen.io/burlingtoncodeacademy'>@burlingtoncodeacademy</a>) on <a href='https://codepen.io'>CodePen</a>.
+</iframe>
 
 # React Form
 
@@ -107,6 +113,13 @@ Given a `<root>` element exists the result is:
 ```
 
 But when the form initiates a `onSubmit` event React will handle the changes using the `handleSubmit` handler function.
+
+# React Form Example
+
+<iframe height="265" style={{width: "100%"}} scrolling="no" title="React Form Example" src="https://codepen.io/burlingtoncodeacademy/embed/xxxNoob?height=265&theme-id=default&default-tab=js,result" frameBorder="no" allowtransparency="true" allowFullScreen={true}>
+  See the Pen <a href='https://codepen.io/burlingtoncodeacademy/pen/xxxNoob'>React Form Example</a> by Joshua Burke
+  (<a href='https://codepen.io/burlingtoncodeacademy'>@burlingtoncodeacademy</a>) on <a href='https://codepen.io'>CodePen</a>.
+</iframe>
 
 # ReactDOM Code
 

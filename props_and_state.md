@@ -107,7 +107,12 @@ function deduct (bankAccount, amount) {
 
 [Props vs State](http://lucybain.com/blog/2016/react-state-vs-pros/)
 
+# State - Tick Live
 
+<iframe height="265" style={{width: "100%"}} scrolling="no" title="React Clock Example" src="https://codepen.io/burlingtoncodeacademy/embed/Rwwmzqo?height=265&theme-id=default&default-tab=js,result" frameBorder="no" allowtransparency="true" allowFullScreen={true}>
+  See the Pen <a href='https://codepen.io/burlingtoncodeacademy/pen/Rwwmzqo'>React Clock Example</a> by Joshua Burke
+  (<a href='https://codepen.io/burlingtoncodeacademy'>@burlingtoncodeacademy</a>) on <a href='https://codepen.io'>CodePen</a>.
+</iframe>
 
 # State - Tick Code
 
@@ -242,6 +247,13 @@ class Clock extends React.Component {
 }
 ```
 
+# State - Working Clock
+
+<iframe height="265" style={{width: "100%"}} scrolling="no" title="Hello World in React" src="https://codepen.io/burlingtoncodeacademy/embed/wvvbLNP?height=265&theme-id=default&default-tab=js,result" frameBorder="no" allowtransparency="true" allowFullScreen={true}>
+  See the Pen <a href='https://codepen.io/burlingtoncodeacademy/pen/wvvbLNP'>Hello World in React</a> by Joshua Burke
+  (<a href='https://codepen.io/burlingtoncodeacademy'>@burlingtoncodeacademy</a>) on <a href='https://codepen.io'>CodePen</a>.
+</iframe>
+
 # State - Remember
 
 * Never update state directly, use `setState({some: 'state'})`
@@ -301,6 +313,13 @@ componentDidMount() {
   });
 }
 ```
+
+# State - Many Clocks
+
+<iframe height="265" style={{width: "100%"}} scrolling="no" title="Hello World in React" src="https://codepen.io/burlingtoncodeacademy/embed/MWWdMLz?height=265&theme-id=default&default-tab=js,result" frameBorder="no" allowtransparency="true" allowFullScreen={true}>
+  See the Pen <a href='https://codepen.io/burlingtoncodeacademy/pen/MWWdMLz'>Hello World in React</a> by Joshua Burke
+  (<a href='https://codepen.io/burlingtoncodeacademy'>@burlingtoncodeacademy</a>) on <a href='https://codepen.io'>CodePen</a>.
+</iframe>
 
 # Using Functional Component Syntax
 
