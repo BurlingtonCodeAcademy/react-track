@@ -24,32 +24,13 @@ JSX --------> JS
 "golden rule" -- don't query the DOM; use a "ref" instead
 
 --- 
-notes for Josh
- - got into data binding and one-way flow too soon
- - need to show example with HTML+screenshot way sooner
- - "frame" and rendering cycle too soon?
 
-ReactDOM.render(React.createElement(
-  'h1',
-  null,
-  'Hello, React!'
-), document.getElementById('root'));
-->
-let e = React.createElement(
-  'h1',
-  {},
-  'Hello, React!'
-)
-ReactDOM.render(e, document.getElementById('root'));
+# React Live Example
 
-HTML has attributes, React has properties
-
-don't answer so many questions that the students didn't ask first
-  e.g.- "why babel? why can't browsers just interpret JSX?'
-   `<script type="text/babel">`
-
-components as capitalized functions with self-closing TOO MUCH AT ONCE
-
-skip Fragment demo -- too advanced
-
-josh, you just said you wanted us to do a tutorial and now you're explainng the final code -- TMI
+```jsx live=true
+function reactExample() {
+  return(
+    <h1>Hello from React</h1>
+  )
+}
+```
